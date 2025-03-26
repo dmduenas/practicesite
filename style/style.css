@@ -1,0 +1,29 @@
+* {
+  font-family: sans-serif;
+}
+
+.violetcolor {
+  color: #8f00ff;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4rem;
+}
+
+@media (width > 600px) {
+  h1 {
+    font-size: 7rem;
+  }
+}
+
+.fronttext {
+  text-align: center;
+}
+
+.frontwrapper {
+  display: flex;
+}
+
+.frontnavigation {
+}
