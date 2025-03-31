@@ -73,3 +73,14 @@ mark {
 a {
   color: white;
 }
+
+body {
+  max-inline-size: 1500px;
+  margin-inline: auto;
+}
+
+.headnav {
+  justify-content: end;
+  color: black;
+  background-color: aquamarine;
+}
