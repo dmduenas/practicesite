@@ -14,6 +14,7 @@
 h1 {
   text-align: center;
   font-size: 4rem;
+  margin: 30px;
 }
 
 @media (width > 600px) {
@@ -30,7 +31,7 @@ h1 {
   position: relative;
   text-align: center;
   font-size: 1.25rem;
-  margin: 1px 30px 75px;
+  margin: 50px 30px 75px;
 }
 
 .frontwrapper {
@@ -44,6 +45,7 @@ h1 {
   position: relative;
   margin: 10px;
   inline-size: 350px;
+  transition: 0.25s;
 
   img {
     inline-size: 350px;
@@ -79,8 +81,6 @@ body {
   margin-inline: auto;
 }
 
-.headnav {
-  justify-content: end;
-  color: black;
-  background-color: aquamarine;
+main {
+  margin-top: 75px;
 }
